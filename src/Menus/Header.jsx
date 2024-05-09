@@ -3,7 +3,7 @@ import { useState } from 'react';
 import { Navbar, Nav } from 'react-bootstrap';
 import { IoSearch } from "react-icons/io5";
 import { BsCart4 } from "react-icons/bs";
-import '../App.css';
+import  '../assets/Css/orelega-one.css';
 import Login from "../Login/Login"
 
 
